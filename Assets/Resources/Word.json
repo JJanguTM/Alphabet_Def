@@ -1,0 +1,1210 @@
+{
+    "Word":[
+        {
+            "Spell" : "solve", 
+            "Korean" : "(문제를)풀다\n 해결하다",  
+            "Number" : "1", 
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "participate", 
+            "Korean" : "참가하다",
+            "Number" : "2",  
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "surround", 
+            "Korean" : "둘러싸다",  
+            "Number" : "3",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "overcome", 
+            "Korean" : "극복하다",  
+            "Number" : "4",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "applaud", 
+            "Korean" : "박수갈채하다",  
+            "Number" : "5",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "prove", 
+            "Korean" : "증명하다",  
+            "Number" : "6",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "likewise", 
+            "Korean" : "마찬가지로",  
+            "Number" : "7",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "graduate", 
+            "Korean" : "졸업하다",  
+            "Number" : "8",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "vast", 
+            "Korean" : "광대한",  
+            "Number" : "9",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "evidence", 
+            "Korean" : "증거",  
+            "Number" : "10",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "routine", 
+            "Korean" : "일과",  
+            "Number" : "11",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "revenge", 
+            "Korean" : "복수",  
+            "Number" : "12",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "organize", 
+            "Korean" : "준비하다",  
+            "Number" : "13",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "famine", 
+            "Korean" : "기근, 대부족",  
+            "Number" : "14",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "purpose", 
+            "Korean" : "목적",  
+            "Number" : "15",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "discern", 
+            "Korean" : "인식하다",  
+            "Number" : "16",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "eventual", 
+            "Korean" : "최종적인",  
+            "Number" : "17",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "bury", 
+            "Korean" : "묻다",  
+            "Number" : "18",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "sole", 
+            "Korean" : "유일한",  
+            "Number" : "19",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "restrict", 
+            "Korean" : "제한하다",  
+            "Number" : "20",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "liberal", 
+            "Korean" : "개방정인",  
+            "Number" : "21",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "grab", 
+            "Korean" : "움켜쥐다",  
+            "Number" : "22",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "exotic", 
+            "Korean" : "외국의",  
+            "Number" : "23",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "govern", 
+            "Korean" : "통치하다",  
+            "Number" : "24",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "arrest", 
+            "Korean" : "체포하다",  
+            "Number" : "25",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "retire", 
+            "Korean" : "퇴직하다",  
+            "Number" : "26",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "exclude", 
+            "Korean" : "제외하다",  
+            "Number" : "27",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "include", 
+            "Korean" : "포함하다",  
+            "Number" : "28",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "vocation", 
+            "Korean" : "천직, 사명감",  
+            "Number" : "29",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "vacation", 
+            "Korean" : "휴가",  
+            "Number" : "30",
+            "Day" : "1",
+            "State" : "false"
+        },
+        {
+            "Spell" : "relate", 
+            "Korean" : "관련이 있다",  
+            "Number" : "31",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "string", 
+            "Korean" : "끈, 줄",  
+            "Number" : "32",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "disclose", 
+            "Korean" : "밝히다",  
+            "Number" : "33",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "valid", 
+            "Korean" : "유효한",  
+            "Number" : "34",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "supreme", 
+            "Korean" : "최고의",  
+            "Number" : "35",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "retain", 
+            "Korean" : "유지하다",  
+            "Number" : "36",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "proper", 
+            "Korean" : "적절한",  
+            "Number" : "37",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "panic", 
+            "Korean" : "공포, 공황",  
+            "Number" : "38",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "legend", 
+            "Korean" : "전설",  
+            "Number" : "39",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "criminal", 
+            "Korean" : "범죄자",  
+            "Number" : "40",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "create", 
+            "Korean" : "창조하다",  
+            "Number" : "41",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "arise", 
+            "Korean" : "발생하다",  
+            "Number" : "42",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "respond", 
+            "Korean" : "응답하다",  
+            "Number" : "43",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "ordinary", 
+            "Korean" : "보통의, 평범한",  
+            "Number" : "44",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "conclude", 
+            "Korean" : "결론을 내리다",  
+            "Number" : "45",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "agency", 
+            "Korean" : "대리점",  
+            "Number" : "46",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "locate", 
+            "Korean" : "~을 찾아내다",  
+            "Number" : "47",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "scream", 
+            "Korean" : "비명을 지르다",  
+            "Number" : "48",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "noble", 
+            "Korean" : "고상한",  
+            "Number" : "49",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "vague", 
+            "Korean" : "모호한",  
+            "Number" : "50",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "slight", 
+            "Korean" : "약간의",  
+            "Number" : "51",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "resource", 
+            "Korean" : "자원",  
+            "Number" : "52",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "pronounce", 
+            "Korean" : "발음하다",  
+            "Number" : "53",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "ethical", 
+            "Korean" : "윤리적인",  
+            "Number" : "54",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "suppose", 
+            "Korean" : "추측하다",  
+            "Number" : "55",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "glitter", 
+            "Korean" : "번득이다",  
+            "Number" : "56",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "demand", 
+            "Korean" : "요구하다",  
+            "Number" : "57",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "supply", 
+            "Korean" : "공급하다",  
+            "Number" : "58",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "quantity", 
+            "Korean" : "수량",  
+            "Number" : "59",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "quality", 
+            "Korean" : "질, 특성",  
+            "Number" : "60",
+            "Day" : "2",
+            "State" : "false"
+        },
+        {
+            "Spell" : "leap", 
+            "Korean" : "껑충 뛰다",  
+            "Number" : "61",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "courage", 
+            "Korean" : "용기",  
+            "Number" : "62",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "option", 
+            "Korean" : "선택",  
+            "Number" : "63",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "expose", 
+            "Korean" : "드러내다",  
+            "Number" : "64",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "concern", 
+            "Korean" : "걱정",  
+            "Number" : "65",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "afford", 
+            "Korean" : "~할 여유가 있다",  
+            "Number" : "66",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "observe", 
+            "Korean" : "관찰하다",  
+            "Number" : "67",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "utmost", 
+            "Korean" : "최고의",  
+            "Number" : "68",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "sip", 
+            "Korean" : "조금씩 마시다",  
+            "Number" : "69",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "resist", 
+            "Korean" : "견디다",  
+            "Number" : "70",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "prompt", 
+            "Korean" : "즉각적인",  
+            "Number" : "71",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "overlook", 
+            "Korean" : "눈감아 주다",  
+            "Number" : "72",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "lean", 
+            "Korean" : "기대다",  
+            "Number" : "73",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "funeral", 
+            "Korean" : "장례식",  
+            "Number" : "74",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "contrary", 
+            "Korean" : "반대의",  
+            "Number" : "75",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "essential", 
+            "Korean" : "필수적인",  
+            "Number" : "76",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "architect", 
+            "Korean" : "건축가",  
+            "Number" : "77",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "opposite", 
+            "Korean" : "반대의 것",  
+            "Number" : "78",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "explore", 
+            "Korean" : "탐험하다",  
+            "Number" : "79",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "addict", 
+            "Korean" : "중독자",  
+            "Number" : "80",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "handle", 
+            "Korean" : "다루다",  
+            "Number" : "81",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "trait", 
+            "Korean" : "특성",  
+            "Number" : "82",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "construct", 
+            "Korean" : "건설하다",  
+            "Number" : "83",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "unity", 
+            "Korean" : "통합",  
+            "Number" : "84",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "summit", 
+            "Korean" : "정상",  
+            "Number" : "85",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "resemble", 
+            "Korean" : "~을 닮다",  
+            "Number" : "86",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "career", 
+            "Korean" : "직업",  
+            "Number" : "87",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "carrier", 
+            "Korean" : "수송 회사",  
+            "Number" : "88",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "offense", 
+            "Korean" : "위반",  
+            "Number" : "89",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "defense", 
+            "Korean" : "방어",  
+            "Number" : "90",
+            "Day" : "3",
+            "State" : "false"
+        },
+        {
+            "Spell" : "promote", 
+            "Korean" : "촉진하다",  
+            "Number" : "91",
+            "Day" : "4",
+            "State" : "false"
+        },
+        {
+            "Spell" : "overflow", 
+            "Korean" : "넘치다",  
+            "Number" : "92",
+            "Day" : "4",
+            "State" : "false"
+        },
+        {
+            "Spell" : "launch", 
+            "Korean" : "출시하다",  
+            "Number" : "93",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "fund", 
+            "Korean" : "자금",  
+            "Number" : "94",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "environment", 
+            "Korean" : "환경",  
+            "Number" : "95",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "context", 
+            "Korean" : "맥락",  
+            "Number" : "96",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "approximate", 
+            "Korean" : "대략의",  
+            "Number" : "97",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "exhibit", 
+            "Korean" : "전시하다",  
+            "Number" : "98",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "communicate", 
+            "Korean" : "의사소통하다",  
+            "Number" : "99",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "acquire", 
+            "Korean" : "습득하다",  
+            "Number" : "100",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "raise", 
+            "Korean" : "올리다",  
+            "Number" : "101",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "farewell", 
+            "Korean" : "작별인사",  
+            "Number" : "102",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "underneath", 
+            "Korean" : "밑에",  
+            "Number" : "103",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "summary", 
+            "Korean" : "요약",  
+            "Number" : "104",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "require", 
+            "Korean" : "필요로 하다",  
+            "Number" : "105",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "prohibit", 
+            "Korean" : "금지하다",  
+            "Number" : "106",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "overall", 
+            "Korean" : "전체의",  
+            "Number" : "107",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "justify", 
+            "Korean" : "정당화하다",  
+            "Number" : "108",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "sin", 
+            "Korean" : "죄, 죄악",  
+            "Number" : "109",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "ensure", 
+            "Korean" : "보장하다",  
+            "Number" : "110",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "appear", 
+            "Korean" : "나타나다",  
+            "Number" : "111",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "occasion", 
+            "Korean" : "때, 경우",  
+            "Number" : "112",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "commit", 
+            "Korean" : "(죄)를 범하다",  
+            "Number" : "113",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "achieve", 
+            "Korean" : "성취하다",  
+            "Number" : "114",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "exhausted", 
+            "Korean" : "기진맥진한",  
+            "Number" : "115",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "magnify", 
+            "Korean" : "확대하다",  
+            "Number" : "116",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "majority", 
+            "Korean" : "대부분",  
+            "Number" : "117",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "minority", 
+            "Korean" : "서수",  
+            "Number" : "118",
+            "Day" : "4",
+            "State" : "false"
+        },{
+            "Spell" : "jealous", 
+            "Korean" : "질투하는",  
+            "Number" : "119",
+            "Day" : "4",
+            "State" : "false"
+        },
+        {
+            "Spell" : "zealous", 
+            "Korean" : "열성적인",  
+            "Number" : "120",
+            "Day" : "4",
+            "State" : "false"
+        },
+        {
+            "Spell" : "select", 
+            "Korean" : "선택하다",  
+            "Number" : "121",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "stale", 
+            "Korean" : "신선하지 않은",  
+            "Number" : "122",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "underlying", 
+            "Korean" : "근본적인",  
+            "Number" : "123",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "notable", 
+            "Korean" : "주목할 만한",  
+            "Number" : "124",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "reputation", 
+            "Korean" : "평판",  
+            "Number" : "125",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "represent", 
+            "Korean" : "대표하다",  
+            "Number" : "126",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "progress", 
+            "Korean" : "진보",  
+            "Number" : "127",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "output", 
+            "Korean" : "생산(량)",  
+            "Number" : "128",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "frequent", 
+            "Korean" : "잦은",  
+            "Number" : "129",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "irritated", 
+            "Korean" : "짜증이 난",  
+            "Number" : "130",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "endure", 
+            "Korean" : "참다",  
+            "Number" : "131",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "account", 
+            "Korean" : "설명, 계좌",  
+            "Number" : "132",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "probable", 
+            "Korean" : "충분히 가능한",  
+            "Number" : "133",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "contact", 
+            "Korean" : "연락, 접촉",  
+            "Number" : "134",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "pedestrian", 
+            "Korean" : "보행자",  
+            "Number" : "135",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "annual", 
+            "Korean" : "매년의",  
+            "Number" : "136",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "rehearse", 
+            "Korean" : "리허설하다",  
+            "Number" : "137",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "obey", 
+            "Korean" : "복종하다",  
+            "Number" : "138",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "estimate", 
+            "Korean" : "평가하다",  
+            "Number" : "139",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "comment", 
+            "Korean" : "논평, 언급",  
+            "Number" : "140",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "voyage", 
+            "Korean" : "항해",  
+            "Number" : "141",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "equivalent", 
+            "Korean" : "동등한, 맞먹는",  
+            "Number" : "142",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "undergo", 
+            "Korean" : "겪다",  
+            "Number" : "143",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "suicide", 
+            "Korean" : "자살",  
+            "Number" : "144",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "outcome", 
+            "Korean" : "결과",  
+            "Number" : "145",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "shipment", 
+            "Korean" : "수송",  
+            "Number" : "146",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "sew", 
+            "Korean" : "꿰매다", 
+            "Number" : "147",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "adapt", 
+            "Korean" : "적응하다",  
+            "Number" : "148",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "adopt", 
+            "Korean" : "채택하다",  
+            "Number" : "149",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "sow", 
+            "Korean" : "(씨를)심다",  
+            "Number" : "150",
+            "Day" : "5",
+            "State" : "false"
+        },
+        {
+            "Spell" : "invade", 
+            "Korean" : "침입하다",  
+            "Number" : "151",
+            "Day" : "6",
+            "State" : "false"
+        },
+        {
+            "Spell" : "frank", 
+            "Korean" : "솔직한",  
+            "Number" : "152",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "constant", 
+            "Korean" : "끊임없는",  
+            "Number" : "153",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "encounter", 
+            "Korean" : "(우연히)만나다",  
+            "Number" : "154",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "mention", 
+            "Korean" : "언급하다",  
+            "Number" : "155",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "combine", 
+            "Korean" : "결합하다",  
+            "Number" : "156",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "establish", 
+            "Korean" : "설립하다",  
+            "Number" : "157",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "donate", 
+            "Korean" : "기부하다",  
+            "Number" : "158",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "effort", 
+            "Korean" : "노력",  
+            "Number" : "159",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "implicate", 
+            "Korean" : "연루시키다",  
+            "Number" : "160",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "flexible", 
+            "Korean" : "유연한",  
+            "Number" : "161",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "ultimate", 
+            "Korean" : "최종의",  
+            "Number" : "162",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "suburb", 
+            "Korean" : "교외",  
+            "Number" : "163",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "shield", 
+            "Korean" : "보호하다",  
+            "Number" : "164",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "replace", 
+            "Korean" : "교체하다",  
+            "Number" : "165",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "private", 
+            "Korean" : "소유의",  
+            "Number" : "166",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "orient", 
+            "Korean" : "적응하다",  
+            "Number" : "167",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "interpret", 
+            "Korean" : "통역하다",  
+            "Number" : "168",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "fond", 
+            "Korean" : "다정한",  
+            "Number" : "169",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "enclose", 
+            "Korean" : "동봉하다",  
+            "Number" : "170",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "consequence", 
+            "Korean" : "결과",  
+            "Number" : "171",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "announce", 
+            "Korean" : "발표하다",  
+            "Number" : "172",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "regard", 
+            "Korean" : "간주하다",  
+            "Number" : "173",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "measure", 
+            "Korean" : "측정하다",  
+            "Number" : "174",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "escape", 
+            "Korean" : "탈출하다",  
+            "Number" : "175",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "claim", 
+            "Korean" : "주장하다",  
+            "Number" : "176",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "mess", 
+            "Korean" : "엉망",  
+            "Number" : "177",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "mass", 
+            "Korean" : "덩어리",  
+            "Number" : "178",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "feather", 
+            "Korean" : "깃털",  
+            "Number" : "179",
+            "Day" : "6",
+            "State" : "false"
+        },{
+            "Spell" : "feature", 
+            "Korean" : "특징",  
+            "Number" : "180",
+            "Day" : "6",
+            "State" : "false"
+        }
+    ]
+}
